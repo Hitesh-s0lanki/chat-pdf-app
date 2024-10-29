@@ -29,7 +29,7 @@
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.30.10",
     "drizzle-zod": "^0.5.1",
-    "langchain": "^0.2.2",
+    "langchain": "^0.2.20",
     "lucide-react": "^0.379.0",
     "md5": "^2.3.0",
     "next": "14.2.3",
